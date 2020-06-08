@@ -13,10 +13,10 @@ Example to build AWS VPC, Azure VNET and create instances in each using aws +azu
 
 ## To run it
 
-```terraform init```
-```terraform plan```
-```terraform apply --auto-approve```
-To Destroy ```terraform destroy --auto-approve```
+- ```terraform init```
+- ```terraform plan```
+- ```terraform apply --auto-approve```
+- To Destroy ```terraform destroy --auto-approve```
 
 ## What to expect
 
